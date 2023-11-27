@@ -1,4 +1,0 @@
-name=proyecto POO
-id=MiMod
-poster=qPro.png
-description=mod para proyecto de POO
